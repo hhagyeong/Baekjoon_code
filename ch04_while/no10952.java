@@ -3,8 +3,8 @@ package ch04_while;
 import java.util.Scanner;
 
 /* 
- * ÁÖ¼Ò: https://www.acmicpc.net/problem/10952
- * ¹®Á¦: A+B - 5
+ * ì£¼ì†Œ: https://www.acmicpc.net/problem/10952
+ * ë¬¸ì œ: A+B - 5
  */
 public class no10952 {
 
